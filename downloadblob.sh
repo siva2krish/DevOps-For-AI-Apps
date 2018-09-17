@@ -15,7 +15,7 @@ az
 #Setting environment variables to access the blob container
 export AZURE_STORAGE_ACCOUNT=amlstrgnew
 export AZURE_STORAGE_KEY=bblmi2HwD+ymk3QuBSa21cwe1D4HaV5CGQNo/KMgDeNdQT/zlvIF08EQM6+5yU2jLe27Htaxt6hfx54cKTd3bw==
-export container_name=devops
+export container_name=https://amlstrgnew.blob.core.windows.net/devops
 export blob_name1=https://amlstrgnew.blob.core.windows.net/devops/ResNet_152.model
 export blob_name2=https://amlstrgnew.blob.core.windows.net/devops/synset.txt
 
