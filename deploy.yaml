@@ -5,6 +5,6 @@ metadata:
 spec:
  containers:
    - name: model-api
-     image: sivak8s.azurecr.io/model-api:$(Build.BuildId)
+     image: sivak8s.azurecr.io/model-api:101
      ports:
        - containerPort: 88
